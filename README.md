@@ -1,5 +1,5 @@
 # 💫 About Me:
-University student exploring full stack development and machine learning.<br>
+Unemployed AI/ML engineer... exploring Software Engineering.<br>
 
 
 # 💻 Tech Stack:
