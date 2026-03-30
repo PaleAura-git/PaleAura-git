@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-🌙 I fall into rabbit holes and eventually crawl out with something cool, then bury it in a private repo (lovingly) ✦
+✦ I fall into rabbit holes and eventually crawl out with something cool, then bury it in a private repo (lovingly) ✦
 </p>
 
 ---
