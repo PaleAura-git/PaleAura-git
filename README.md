@@ -25,6 +25,6 @@
 
 <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%"/>
 
-<p>■ Periphery - Luck as a Constant ■</p>
+
 
 </div>
