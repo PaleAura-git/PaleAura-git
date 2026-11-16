@@ -23,6 +23,22 @@
 
 <p>▮ if it's cool enough I'll figure out how it works ▮</p>
 
+<br>
+
+<kbd>
+&nbsp; &nbsp; ✦ latest lanyard ✦ &nbsp; &nbsp;
+</kbd>
+
+<br><br>
+
+🏆 Best Mission Application · NASA Space Apps Challenge 2026
+
+<a href="https://github.com/PaleAura-git/NeonGenesis-marswalk-NASA2026"><b>Marswalk</b></a>: plans safe walks on Mars from real NASA data
+<br>
+<sub>team lead · AI/ML · full-stack · with Team Neon Genesis</sub>
+
+<br><br>
+
 <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%"/>
 
 
